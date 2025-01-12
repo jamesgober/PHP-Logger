@@ -1,8 +1,21 @@
 # PHP LOGGER
-**Logger** is a high-performance **PHP extension** designed to handle high-capacity logging efficiently and flexibly. It adheres to the PSR-3 Logger standards, ensuring compatibility with modern PHP logging practices and seamless integration with other libraries and frameworks.
+
+&nbsp;
 
 > [!CAUTION]
 > This project is currently under development!
+
+&nbsp;
+
+### TODO
+-[ ] 
+
+
+&nbsp;
+
+---
+
+**Logger** is a high-performance **PHP extension** designed to handle high-capacity logging efficiently and flexibly. It adheres to the PSR-3 Logger standards, ensuring compatibility with modern PHP logging practices and seamless integration with other libraries and frameworks.
 
 ### Key features include:
 
